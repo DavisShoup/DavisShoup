@@ -1,5 +1,5 @@
 # Hello, I'm Davis Shoup !
-I'm a developer currently going through a Software Engineering bootcamp at General Assembly. 
+I'm a developer currently in a Software Engineering bootcamp at General Assembly. 
 
 
 - I have a passion for problem solving and creativity. The joy of seeing a project come together is so rewarding. I love being able to take an idea and bring it to life with working software.
